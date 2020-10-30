@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/E-ticket/https://kirillserebrykov.github.io/E-ticket/https://kirillserebrykov.github.io/E-ticket/static/css/main.655643de.chunk.css",
+    "main.js": "/E-ticket/https://kirillserebrykov.github.io/E-ticket/https://kirillserebrykov.github.io/E-ticket/static/js/main.4b15d145.chunk.js",
+    "main.js.map": "/E-ticket/https://kirillserebrykov.github.io/E-ticket/https://kirillserebrykov.github.io/E-ticket/static/js/main.4b15d145.chunk.js.map",
+    "runtime-main.js": "/E-ticket/https://kirillserebrykov.github.io/E-ticket/https://kirillserebrykov.github.io/E-ticket/static/js/runtime-main.a39e919d.js",
+    "runtime-main.js.map": "/E-ticket/https://kirillserebrykov.github.io/E-ticket/https://kirillserebrykov.github.io/E-ticket/static/js/runtime-main.a39e919d.js.map",
+    "static/js/2.f35b5808.chunk.js": "/E-ticket/https://kirillserebrykov.github.io/E-ticket/https://kirillserebrykov.github.io/E-ticket/static/js/2.f35b5808.chunk.js",
+    "static/js/2.f35b5808.chunk.js.map": "/E-ticket/https://kirillserebrykov.github.io/E-ticket/https://kirillserebrykov.github.io/E-ticket/static/js/2.f35b5808.chunk.js.map",
+    "index.html": "/E-ticket/https://kirillserebrykov.github.io/E-ticket/https://kirillserebrykov.github.io/E-ticket/index.html",
+    "precache-manifest.da308a47c45c9e2cfba03db583eefdd1.js": "/E-ticket/https://kirillserebrykov.github.io/E-ticket/https://kirillserebrykov.github.io/E-ticket/precache-manifest.da308a47c45c9e2cfba03db583eefdd1.js",
+    "service-worker.js": "/E-ticket/https://kirillserebrykov.github.io/E-ticket/https://kirillserebrykov.github.io/E-ticket/service-worker.js",
+    "static/css/main.655643de.chunk.css.map": "/E-ticket/https://kirillserebrykov.github.io/E-ticket/https://kirillserebrykov.github.io/E-ticket/static/css/main.655643de.chunk.css.map",
+    "static/js/2.f35b5808.chunk.js.LICENSE.txt": "/E-ticket/https://kirillserebrykov.github.io/E-ticket/https://kirillserebrykov.github.io/E-ticket/static/js/2.f35b5808.chunk.js.LICENSE.txt",
+    "static/media/Eclipse-2.2s-200px.svg": "/E-ticket/https://kirillserebrykov.github.io/E-ticket/https://kirillserebrykov.github.io/E-ticket/static/media/Eclipse-2.2s-200px.3ad06099.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a39e919d.js",
+    "static/js/2.f35b5808.chunk.js",
+    "static/css/main.655643de.chunk.css",
+    "static/js/main.4b15d145.chunk.js"
+  ]
+}
