@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/E-ticket/https://kirillserebrykov.github.io/E-ticket/https://kirillserebrykov.github.io/E-ticket/precache-manifest.da308a47c45c9e2cfba03db583eefdd1.js"
+  "/E-ticket/precache-manifest.86f1cecac8ccff5fc913324d6706e9ea.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/E-ticket/https://kirillserebrykov.github.io/E-ticket/https://kirillserebrykov.github.io/E-ticket/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/E-ticket/index.html"), {
   
   blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
 });
